@@ -7,6 +7,7 @@ In this mockup a middleware is implemented to keep changes in local storge, but 
 
 Used to manage data registered or obtained via e-mail marketing campaign, landing recruitment, subsriptions to a newsletter etc.
 
+<a href="https://crud-listing-content.netlify.app/" target="_blank">Mockup deploy here</a>
 
 <h5>What this have</h5>
 
